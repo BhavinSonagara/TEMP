@@ -26,6 +26,12 @@ int main() {
 //	freopen("output.txt", "w", stdout);
 //#endif
 
+
+//#ifndef ONLINE_JUDGE
+//	freopen("input.txt", "r", stdin);
+//	freopen("output.txt", "w", stdout);
+//#endif
+
     ll test=1;
     cin>>test;
     while(test--)
