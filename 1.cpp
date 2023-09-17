@@ -6,6 +6,7 @@ void solve()
 {
     int n;
     cin >> n;
+
     n = n-1;
 }
 int main() {
